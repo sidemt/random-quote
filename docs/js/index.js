@@ -47,7 +47,7 @@ $(document).ready(function() {
       }
     }
 
-    var shareUrl = "https://sidemt.github.io/random-quote/";
+    var shareUrl = "https://codepen.io/sidemt/full/jZrPJO/";
     var targetId = "twitter-share-button";
     var message = $(".quote").text();
     var hashtag = "freeCodeCamp";
